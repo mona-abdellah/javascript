@@ -1,0 +1,40 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "name": "Web Development",
+            "videos": [
+                {
+                    "title": "Introduction to HTML",
+                    "type": "mp4",
+                    "url":"https://www.youtube.com/embed/salY_Sm6mv4?si=hIEuNYnYp6GFR5Wh"},
+                {
+                    "title": "CSS Basics",
+                    "type": "mp4",
+                    "url": "https://www.youtube.com/watch?v=1Rs2ND1ryYc"
+                },
+                {
+                    "title": "JavaScript Overview",
+                    "type": "mp4",
+                    "url": "https://www.youtube.com/watch?v=W6NZfCO5SIk"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Data Science",
+            "videos": [
+                {
+                    "title": "Python for Data Science",
+                    "type": "mp4",
+                    "url": "https://www.youtube.com/watch?v=LHBE6Q9XlzI"
+                },
+                {
+                    "title": "Data Visualization",
+                    "type": "mp4",
+                    "url": "https://www.youtube.com/watch?v=5QOivDWcN9k"
+                }
+            ]
+        }
+    ]
+}
